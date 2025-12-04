@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "昨日新しいモデルを試しました。",
+    "mecab_len": 8,
+    "gold_len": 7
+  },
+  {
+    "sentence": "このアルゴリズムは計算量が少ないです。",
+    "mecab_len": 9,
+    "gold_len": 8
+  },
+  {
+    "sentence": "今日の講義ではポアソン分布を扱います。",
+    "mecab_len": 11,
+    "gold_len": 10
+  },
+  {
+    "sentence": "ロジスティック回帰は分類でよく使われる。",
+    "mecab_len": 8,
+    "gold_len": 9
+  },
+  {
+    "sentence": "ブートストラップで信頼区間を推定した。",
+    "mecab_len": 9,
+    "gold_len": 8
+  },
+  {
+    "sentence": "今日の実験結果をレポートにまとめます。",
+    "mecab_len": 9,
+    "gold_len": 10
+  }
+]

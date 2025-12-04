@@ -1,0 +1,477 @@
+[
+  {
+    "sentence": "あの方のお名前を確認してもよろしいですか。",
+    "len_surface": 14,
+    "len_reading": 13
+  },
+  {
+    "sentence": "こちらの方が担当の方でございます。",
+    "len_surface": 11,
+    "len_reading": 10
+  },
+  {
+    "sentence": "この所にお名前をご記入ください。",
+    "len_surface": 10,
+    "len_reading": 9
+  },
+  {
+    "sentence": "大事な所だけもう一度説明してください。",
+    "len_surface": 10,
+    "len_reading": 9
+  },
+  {
+    "sentence": "教室の中で走らないでください。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "学生の方は受付で学生証をご提示ください。",
+    "len_surface": 12,
+    "len_reading": 11
+  },
+  {
+    "sentence": "三人でお待ちの方はこちらへどうぞ。",
+    "len_surface": 11,
+    "len_reading": 10
+  },
+  {
+    "sentence": "本日初めて参加される方はこちらです。",
+    "len_surface": 10,
+    "len_reading": 9
+  },
+  {
+    "sentence": "行く所がないとその方は言っていました。",
+    "len_surface": 14,
+    "len_reading": 12
+  },
+  {
+    "sentence": "出る所を間違えないようにお気をつけください。",
+    "len_surface": 12,
+    "len_reading": 10
+  },
+  {
+    "sentence": "この生のデータはまだ処理されていません。",
+    "len_surface": 14,
+    "len_reading": 11
+  },
+  {
+    "sentence": "その上、とても丁寧に対応していただきました。",
+    "len_surface": 13,
+    "len_reading": 12
+  },
+  {
+    "sentence": "ページの上の方に書いてください。",
+    "len_surface": 9,
+    "len_reading": 10
+  },
+  {
+    "sentence": "今日の午後にもう一度ご連絡します。",
+    "len_surface": 10,
+    "len_reading": 9
+  },
+  {
+    "sentence": "明日は会議が三件あります。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "明日はあの方も参加されます。",
+    "len_surface": 10,
+    "len_reading": 9
+  },
+  {
+    "sentence": "会議は明日の午後三時から行われます。",
+    "len_surface": 12,
+    "len_reading": 11
+  },
+  {
+    "sentence": "お気をつけてお帰りください。",
+    "len_surface": 8,
+    "len_reading": 6
+  },
+  {
+    "sentence": "病気の方は無理をなさらないでください。",
+    "len_surface": 11,
+    "len_reading": 10
+  },
+  {
+    "sentence": "大人の対応をしていただきありがとうございました。",
+    "len_surface": 10,
+    "len_reading": 9
+  },
+  {
+    "sentence": "子どものときに住んでいた所を訪ねました。",
+    "len_surface": 14,
+    "len_reading": 9
+  },
+  {
+    "sentence": "先ほどの所からもう一度お願いします。",
+    "len_surface": 10,
+    "len_reading": 9
+  },
+  {
+    "sentence": "手を上げてご意見のある方はお知らせください。",
+    "len_surface": 13,
+    "len_reading": 12
+  },
+  {
+    "sentence": "最中に失礼しますが確認したいことがあります。",
+    "len_surface": 14,
+    "len_reading": 13
+  },
+  {
+    "sentence": "明日の資料を中に入れておきました。",
+    "len_surface": 12,
+    "len_reading": 11
+  },
+  {
+    "sentence": "部屋の中はとても静かでした。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "今日中に終わらせたい仕事があります。",
+    "len_surface": 11,
+    "len_reading": 9
+  },
+  {
+    "sentence": "その方は今日来られません。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "明日中に提出してください。",
+    "len_surface": 8,
+    "len_reading": 7
+  },
+  {
+    "sentence": "明日は天気が良さそうです。",
+    "len_surface": 9,
+    "len_reading": 7
+  },
+  {
+    "sentence": "大事な場所なので静かにしてください。",
+    "len_surface": 11,
+    "len_reading": 10
+  },
+  {
+    "sentence": "会社の上の階に会議室があります。",
+    "len_surface": 10,
+    "len_reading": 11
+  },
+  {
+    "sentence": "上の方に提出ボックスがあります。",
+    "len_surface": 9,
+    "len_reading": 10
+  },
+  {
+    "sentence": "三人の人が並んでいます。",
+    "len_surface": 10,
+    "len_reading": 8
+  },
+  {
+    "sentence": "人によって考え方が違います。",
+    "len_surface": 7,
+    "len_reading": 9
+  },
+  {
+    "sentence": "生まれた場所を覚えていますか。",
+    "len_surface": 10,
+    "len_reading": 9
+  },
+  {
+    "sentence": "生の反応を見ることが大事です。",
+    "len_surface": 10,
+    "len_reading": 11
+  },
+  {
+    "sentence": "今日の会議は短く終わりました。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "今日会った方はとても丁寧でした。",
+    "len_surface": 10,
+    "len_reading": 9
+  },
+  {
+    "sentence": "この所で少し休みましょう。",
+    "len_surface": 8,
+    "len_reading": 7
+  },
+  {
+    "sentence": "場所が分からない方はこちらへどうぞ。",
+    "len_surface": 10,
+    "len_reading": 9
+  },
+  {
+    "sentence": "良い場所が見つかりました。",
+    "len_surface": 7,
+    "len_reading": 6
+  },
+  {
+    "sentence": "上の方を見てください。",
+    "len_surface": 7,
+    "len_reading": 8
+  },
+  {
+    "sentence": "その人は今日お休みです。",
+    "len_surface": 8,
+    "len_reading": 7
+  },
+  {
+    "sentence": "三人の方が申し込みました。",
+    "len_surface": 9,
+    "len_reading": 7
+  },
+  {
+    "sentence": "多くの人が集まっています。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "生の声を聞くことが大切です。",
+    "len_surface": 8,
+    "len_reading": 11
+  },
+  {
+    "sentence": "生放送が始まりました。",
+    "len_surface": 6,
+    "len_reading": 5
+  },
+  {
+    "sentence": "今日のところはここまでにしましょう。",
+    "len_surface": 11,
+    "len_reading": 10
+  },
+  {
+    "sentence": "明日また続けましょう。",
+    "len_surface": 6,
+    "len_reading": 5
+  },
+  {
+    "sentence": "今日中に終わるように頑張ります。",
+    "len_surface": 9,
+    "len_reading": 7
+  },
+  {
+    "sentence": "あの方は新しい案を出しました。",
+    "len_surface": 10,
+    "len_reading": 9
+  },
+  {
+    "sentence": "箱の中には何も入っていません。",
+    "len_surface": 13,
+    "len_reading": 9
+  },
+  {
+    "sentence": "その所を直しておきました。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "生の音を録音しました。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "今日の予定を整理しました。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "人が多くて驚きました。",
+    "len_surface": 8,
+    "len_reading": 7
+  },
+  {
+    "sentence": "人によって意見が違います。",
+    "len_surface": 7,
+    "len_reading": 9
+  },
+  {
+    "sentence": "その方は今日の会議に参加されません。",
+    "len_surface": 13,
+    "len_reading": 11
+  },
+  {
+    "sentence": "どちらの方がよろしいでしょうか。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "この中に重要な書類が入っています。",
+    "len_surface": 12,
+    "len_reading": 11
+  },
+  {
+    "sentence": "箱の中は空っぽでした。",
+    "len_surface": 8,
+    "len_reading": 7
+  },
+  {
+    "sentence": "会議の最中に質問が出ました。",
+    "len_surface": 10,
+    "len_reading": 9
+  },
+  {
+    "sentence": "途中で雨が降ってきました。",
+    "len_surface": 10,
+    "len_reading": 8
+  },
+  {
+    "sentence": "重要な所にマーカーを引きました。",
+    "len_surface": 10,
+    "len_reading": 9
+  },
+  {
+    "sentence": "この所で一度止まってください。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "生き生きとした表情が印象的でした。",
+    "len_surface": 11,
+    "len_reading": 9
+  },
+  {
+    "sentence": "生の声を聞く機会は貴重です。",
+    "len_surface": 8,
+    "len_reading": 11
+  },
+  {
+    "sentence": "上の段の本を取ってください。",
+    "len_surface": 9,
+    "len_reading": 10
+  },
+  {
+    "sentence": "部長は上の階にいます。",
+    "len_surface": 8,
+    "len_reading": 9
+  },
+  {
+    "sentence": "上に書かれた通りに進んでください。",
+    "len_surface": 11,
+    "len_reading": 10
+  },
+  {
+    "sentence": "その上、大変分かりやすい説明でした。",
+    "len_surface": 10,
+    "len_reading": 8
+  },
+  {
+    "sentence": "五人の方が参加されています。",
+    "len_surface": 12,
+    "len_reading": 9
+  },
+  {
+    "sentence": "人によって得意な分野が違います。",
+    "len_surface": 9,
+    "len_reading": 11
+  },
+  {
+    "sentence": "今日の会議は十五時から始まります。",
+    "len_surface": 11,
+    "len_reading": 9
+  },
+  {
+    "sentence": "今日中に仕上げたい仕事があります。",
+    "len_surface": 10,
+    "len_reading": 9
+  },
+  {
+    "sentence": "今日はとても忙しい一日でした。",
+    "len_surface": 9,
+    "len_reading": 7
+  },
+  {
+    "sentence": "明日の天気を確認してください。",
+    "len_surface": 7,
+    "len_reading": 9
+  },
+  {
+    "sentence": "明日は会議が二件あります。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "明日の資料を準備しました。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "明日は早起きしなければなりません。",
+    "len_surface": 10,
+    "len_reading": 7
+  },
+  {
+    "sentence": "良い場所が見つかりました。",
+    "len_surface": 7,
+    "len_reading": 6
+  },
+  {
+    "sentence": "机の上が散らかっています。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "上の方を向いてください。",
+    "len_surface": 7,
+    "len_reading": 8
+  },
+  {
+    "sentence": "多くの人が賛成しました。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "二人の人が待っています。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "生放送が始まりました。",
+    "len_surface": 6,
+    "len_reading": 5
+  },
+  {
+    "sentence": "生産量が増えています。",
+    "len_surface": 7,
+    "len_reading": 6
+  },
+  {
+    "sentence": "生の音を聞くのは貴重です。",
+    "len_surface": 10,
+    "len_reading": 11
+  },
+  {
+    "sentence": "今日の宿題をもう済ませました。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "今日中に返信をお願いします。",
+    "len_surface": 9,
+    "len_reading": 8
+  },
+  {
+    "sentence": "明日またお会いしましょう。",
+    "len_surface": 8,
+    "len_reading": 6
+  },
+  {
+    "sentence": "明日中に連絡します。",
+    "len_surface": 7,
+    "len_reading": 6
+  },
+  {
+    "sentence": "部屋の中に誰もいません。",
+    "len_surface": 10,
+    "len_reading": 8
+  },
+  {
+    "sentence": "中に入ると急に明るくなりました。",
+    "len_surface": 11,
+    "len_reading": 9
+  }
+]
